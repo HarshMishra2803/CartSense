@@ -6,7 +6,7 @@ The project covers the complete ML workflow — from data preprocessing and mode
 
 ##  Live Demo
 
-**Streamlit App:** [Add your deployed Streamlit URL here]
+**Streamlit App:** https://carttsense.streamlit.app/
 
 ## Problem Statement
 
